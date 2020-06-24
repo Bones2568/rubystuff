@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rubymod:horse_armor_ruby"
+  },
+  "result": "rubymod:ruby",
+  "experience": 1,
+  "cookingtime": 129
+}

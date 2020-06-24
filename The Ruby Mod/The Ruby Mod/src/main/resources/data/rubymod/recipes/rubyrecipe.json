@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " I ",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "rubymod:rubyblock"
+    },
+    "I": {
+      "item": "rubymod:rubyblock"
+    }
+  },
+  "result": {
+    "item": "rubymod:ruby",
+    "count": 9,
+    "experience": 5
+  }
+}

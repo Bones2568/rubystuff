@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "rubymod:ruby_nugget"
+    },
+    "I": {
+      "item": "rubymod:ruby_nugget"
+    }
+  },
+  "result": {
+    "item": "rubymod:ruby",
+    "count": 1,
+    "experience": 5
+  }
+}

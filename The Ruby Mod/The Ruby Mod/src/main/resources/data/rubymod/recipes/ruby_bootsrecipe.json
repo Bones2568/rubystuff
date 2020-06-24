@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "i I",
+    "i I"
+  ],
+  "key": {
+    "I": {
+      "item": "rubymod:ruby"
+    },
+    "i": {
+      "item": "rubymod:ruby"
+    }
+  },
+  "result": {
+    "item": "rubymod:ruby_boots"
+  }
+}

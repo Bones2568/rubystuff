@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  I",
+    "IiI",
+    "III"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:gray_wool"
+    },
+    "I": {
+      "item": "rubymod:ruby"
+    }
+  },
+  "result": {
+    "item": "rubymod:horse_armor_ruby"
+  }
+}

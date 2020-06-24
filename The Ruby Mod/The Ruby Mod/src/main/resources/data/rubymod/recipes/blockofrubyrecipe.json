@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "rubymod:ruby"
+    },
+    "I": {
+      "item": "rubymod:ruby"
+    }
+  },
+  "result": {
+    "item": "rubymod:rubyblock"
+  }
+}
